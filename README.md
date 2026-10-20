@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guestbook - Manual
 
 Ứng dụng guestbook gồm FastAPI, SQLite và giao diện React/Vite.
@@ -40,3 +41,6 @@ Mở địa chỉ Vite hiển thị trong terminal (mặc định
 Các endpoint nhận dữ liệu thêm từ form fields `name` và `message`. API trả lỗi
 HTTP 422 khi dữ liệu không hợp lệ. Frontend React hiển thị lỗi và nạp lại danh
 sách sau khi thêm hoặc xóa.
+=======
+# Web-python-manual
+>>>>>>> 4987d30104b360fdcb2f2c83b84b0a70a03bf443

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Guestbook - Manual
 
 Ứng dụng guestbook gồm FastAPI, SQLite và giao diện React/Vite.
@@ -43,4 +42,3 @@ HTTP 422 khi dữ liệu không hợp lệ. Frontend React hiển thị lỗi v�
 sách sau khi thêm hoặc xóa.
 =======
 # Web-python-manual
->>>>>>> 4987d30104b360fdcb2f2c83b84b0a70a03bf443
